@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>student biodata form</title>
+</head>
+<body bgcolor=blue>
+<h2 align="center"><u>RESUME</u></h2>
+<h3>Name:rohitha</h3>
+<h3>DOB:23-11-2000</h3>
+<h3>address:kakinada</h3>
+<hr color="red">
+<h3 align="center"><u>Educational qualification</u</h2>
+<h4>ssc:95%/h4>
+<h4>inter:90%</h4>
+<h4>BCA:75%</h4>
+<hr color="black">
+<h2 align="center"><u>HOBBIES</U></H2>
+<H4>reading books</h4>
+<h4>listening online classes</h4>
+<h4>painting</h4>
+</body>
+</html>
