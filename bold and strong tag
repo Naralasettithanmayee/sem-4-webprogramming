@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>web programming</title>
+</head>
+<body bgcolour=blue>
+<h1>bold letter</h1>
+<p><b>this is a paragraph</b></p>
+<p><strong>this is a paragraph</strong></p>
+</body>
+</html>
